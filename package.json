@@ -1,0 +1,30 @@
+{
+  "name": "trello-power-up-skeleton",
+  "version": "0.0.1",
+  "description": "A Power-Up skeleton to remix to start building your Power-Up!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/trello-power-up-skeleton"
+  },
+  "dependencies": {
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "node-nocache": "^1.0.4"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "keywords": [
+    "power-ups",
+    "trello",
+    "glitch"
+  ],
+  "license": "MIT"
+}
+
+
+  
